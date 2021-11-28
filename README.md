@@ -2,7 +2,8 @@
 
 Below is the architecture to be implemented:
 
-![mehul (1)](https://user-images.githubusercontent.com/21075788/143733148-110023d5-792d-45ed-87ea-7eda1aacc488.png)
+![mehul (2)](https://user-images.githubusercontent.com/21075788/143733172-cbab9f84-67eb-4f28-8bec-a4218bd580c0.png)
+
 
 # Prerequisites:
 1. AWS account
