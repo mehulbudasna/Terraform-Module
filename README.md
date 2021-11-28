@@ -12,8 +12,8 @@ Below is the architecture to be implemented:
 # Modules included are:
 
 In script we are use two module use
-- First module is network : for more understand please follow this [link](https://github.com/mehulbudasna/Terraform-Module/blob/main/network/README.md)
-- Second module is ec2 : for more understand please follow this [link](https://github.com/mehulbudasna/Terraform-Module/blob/main/ec2/README.md)
+- First module is network : for more understand please follow this [link](https://github.com/mehulbudasna/Terraform-Module/blob/master/network/README.md)
+- Second module is ec2 : for more understand please follow this [link](https://github.com/mehulbudasna/Terraform-Module/blob/master/ec2/README.md)
 
 # Follow Below Steps to RUN Terraform snippet
 
